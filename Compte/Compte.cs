@@ -7,20 +7,26 @@ namespace Compte
 {
     class Compte
     {
-        private int numero;
-        private double solde;
-        private Client client;
-        private [] mouvement;
+        private static int numero_utilise;
+        protected int numero;
+        protected double solde;
+        protected Client client;
+        protected Mouvement[] mouvements;
 
-        public Compte()
+        public Compte(){}
+
+        public Compte(Client client)
         {
-
+            this.numero = prochainNumero();
+            this.client = client;
         }
-     
+
+        protected int prochainNumero() => ++numero_utilise;
+
         public int Numero
         {
             get { return this.numero; }
-            set { this.numero = value:}
+            set { this.numero = value; }
         }
 
         public Client Client
@@ -29,10 +35,20 @@ namespace Compte
             set { this.client = value; }
         }
 
-        public Array Mouvement
+        public Array Mouvements
         {
-            get { return this.mouvement; }
+            get { return this.mouvements; }
             set { }
+        }
+
+        public void debiter(double s)
+        {
+            this.solde = this.solde + s;
+        }
+
+        public void crediter(double s)
+        {
+            this.solde = this.solde - s;
         }
     }
 }

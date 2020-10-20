@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Compte
 {
-    class Client
+    public class Client
     {
         private string nom;
         private string prenom;
