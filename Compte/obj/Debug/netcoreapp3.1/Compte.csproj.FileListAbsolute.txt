@@ -11,3 +11,16 @@ C:\Users\chesi\source\repos\Compte\Compte\bin\Debug\netcoreapp3.1\Compte.pdb
 C:\Users\chesi\source\repos\Compte\Compte\obj\Debug\netcoreapp3.1\Compte.dll
 C:\Users\chesi\source\repos\Compte\Compte\obj\Debug\netcoreapp3.1\Compte.pdb
 C:\Users\chesi\source\repos\Compte\Compte\obj\Debug\netcoreapp3.1\Compte.genruntimeconfig.cache
+C:\Users\chesi\OneDrive\Documents\Projets\Compte\Compte\bin\Debug\netcoreapp3.1\Compte.exe
+C:\Users\chesi\OneDrive\Documents\Projets\Compte\Compte\bin\Debug\netcoreapp3.1\Compte.deps.json
+C:\Users\chesi\OneDrive\Documents\Projets\Compte\Compte\bin\Debug\netcoreapp3.1\Compte.runtimeconfig.json
+C:\Users\chesi\OneDrive\Documents\Projets\Compte\Compte\bin\Debug\netcoreapp3.1\Compte.runtimeconfig.dev.json
+C:\Users\chesi\OneDrive\Documents\Projets\Compte\Compte\bin\Debug\netcoreapp3.1\Compte.dll
+C:\Users\chesi\OneDrive\Documents\Projets\Compte\Compte\bin\Debug\netcoreapp3.1\Compte.pdb
+C:\Users\chesi\OneDrive\Documents\Projets\Compte\Compte\obj\Debug\netcoreapp3.1\Compte.csprojAssemblyReference.cache
+C:\Users\chesi\OneDrive\Documents\Projets\Compte\Compte\obj\Debug\netcoreapp3.1\Compte.AssemblyInfoInputs.cache
+C:\Users\chesi\OneDrive\Documents\Projets\Compte\Compte\obj\Debug\netcoreapp3.1\Compte.AssemblyInfo.cs
+C:\Users\chesi\OneDrive\Documents\Projets\Compte\Compte\obj\Debug\netcoreapp3.1\Compte.csproj.CoreCompileInputs.cache
+C:\Users\chesi\OneDrive\Documents\Projets\Compte\Compte\obj\Debug\netcoreapp3.1\Compte.dll
+C:\Users\chesi\OneDrive\Documents\Projets\Compte\Compte\obj\Debug\netcoreapp3.1\Compte.pdb
+C:\Users\chesi\OneDrive\Documents\Projets\Compte\Compte\obj\Debug\netcoreapp3.1\Compte.genruntimeconfig.cache

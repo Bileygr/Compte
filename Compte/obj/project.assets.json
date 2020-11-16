@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chesi\\source\\repos\\Compte\\Compte\\Compte.csproj",
+      "projectUniqueName": "D:\\Documents\\Projets\\Compte\\Compte\\Compte.csproj",
       "projectName": "Compte",
-      "projectPath": "C:\\Users\\chesi\\source\\repos\\Compte\\Compte\\Compte.csproj",
+      "projectPath": "D:\\Documents\\Projets\\Compte\\Compte\\Compte.csproj",
       "packagesPath": "C:\\Users\\chesi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chesi\\source\\repos\\Compte\\Compte\\obj\\",
+      "outputPath": "D:\\Documents\\Projets\\Compte\\Compte\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chesi\\AppData\\Roaming\\NuGet\\NuGet.Config",
